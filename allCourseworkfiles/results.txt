@@ -1,0 +1,213 @@
+
+
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 0 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File CDG2021.csv selected - Planes departing Charles De Gaulle International 2021
+***************************************************************************
+The total number of flights from this airport was 41
+The total number of flights departing Terminal Two was 7
+The total number of departures on flights under 600 miles was 23
+There were 8 Air France flights from this airport
+There were 4 flights departing in temperatures below 15 degrees
+There was an average of 0.42 British Airways flights per hour from this airport
+British Airways planes made up 12.2% of all departures
+25.0% of Air France departures were delayed
+There were 7 hours in which rain fell
+The least common destinations are ['Amsterdam Schiphol']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File CDG2021.csv selected - Planes departing Charles De Gaulle International 2021
+***************************************************************************
+The total number of flights from this airport was 41
+The total number of flights departing Terminal Two was 7
+The total number of departures on flights under 600 miles was 23
+There were 8 Air France flights from this airport
+There were 4 flights departing in temperatures below 15 degrees
+There was an average of 0.42 British Airways flights per hour from this airport
+British Airways planes made up 12.2% of all departures
+25.0% of Air France departures were delayed
+There were 7 hours in which rain fell
+The least common destinations are ['Amsterdam Schiphol']
+
+***************************************************************************
+File LHR2025.csv selected - Planes departing London Heathrow 2025
+***************************************************************************
+The total number of flights from this airport was 490
+The total number of flights departing Terminal Two was 106
+The total number of departures on flights under 600 miles was 231
+There were 67 Air France flights from this airport
+There were 156 flights departing in temperatures below 15 degrees
+There was an average of 13.25 British Airways flights per hour from this airport
+British Airways planes made up 32.45% of all departures
+37.31% of Air France departures were delayed
+There were 5 hours in which rain fell
+The least common destinations are ['Madrid Adolfo Suárez-Barajas']
+
+***************************************************************************
+File CDG2021.csv selected - Planes departing Charles De Gaulle International 2021
+***************************************************************************
+The total number of flights from this airport was 41
+The total number of flights departing Terminal Two was 7
+The total number of departures on flights under 600 miles was 23
+There were 8 Air France flights from this airport
+There were 4 flights departing in temperatures below 15 degrees
+There was an average of 0.42 British Airways flights per hour from this airport
+British Airways planes made up 12.2% of all departures
+25.0% of Air France departures were delayed
+There were 7 hours in which rain fell
+The least common destinations are ['Amsterdam Schiphol']
+
